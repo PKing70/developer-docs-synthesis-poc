@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+evidence.json
+proposal.json
+proposal.md
+draft.json
+draft.md
+answers.md
+sources.md

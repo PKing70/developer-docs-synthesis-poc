@@ -1,0 +1,22 @@
+{
+  "source_repository": "https://github.com/splunk/splunk-sdk-python",
+  "supporting_context": [
+    "docs/ai.rst",
+    "splunklib/ai/README.md",
+    "examples/ai_custom_search_app/bin/agentic_reporting_csc.py",
+    "examples/ai_custom_search_app/default/commands.conf"
+  ],
+  "allowed_extensions": [
+    ".py",
+    ".rst",
+    ".md",
+    ".mdx",
+    ".conf",
+    ".toml",
+    ".yaml",
+    ".yml"
+  ],
+  "max_changed_files": 20,
+  "max_file_chars": 24000,
+  "max_total_chars": 120000
+}
